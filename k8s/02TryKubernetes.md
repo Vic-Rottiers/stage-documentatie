@@ -25,3 +25,27 @@ vervolgens kan de deployment bezien worden door een proxy op te zetten met de cl
 echo Name of the Pod: $POD_NAME`
 
 `curl http://localhost:8001/api/v1/namespaces/default/pods/$POD_NAME`
+
+## Exploring your app
+
+kijken naar welke pods aan het runnen zijn: `kubectl get pods`
+
+Details opvragen van de pods: `kubectl describe pods`
+
+**de app in de terminal tonen:**
+
+`kubectl proxy`
+
+podname verkrijgen: 
+`export POD_NAME=$(kubectl get pods -o go-template --template '{{range .items}}{{.metadata.name}}{{"\n"}}{{end}}')
+echo Name of the Pod: $POD_NAME`
+
+curl:
+`curl http://localhost:8001/api/v1/namespaces/default/pods/$POD_NAME/proxy/
+
+**logs tonen:**
+`kubectl logs $POD_NAME`
+
+**shell access op de container:**
+`kubectl exec $POD_NAME --env`
+`kubectl exec -ti $POD_NAME --bash`

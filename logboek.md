@@ -10,6 +10,20 @@ Er is dagelijks een Standup met de stagementor en andere stagairs, dus dit verme
 
 ### Maandag 
 
+done:
+
+- Inleiding + in orde brengen van accounts en software
+- Eerste 4 live demo's uit de [Katacoda Kubernetes course](https://www.katacoda.com/courses/kubernetes)
+
+doing:
+
+- kubernetes theorie afwerken (30% done denk ik)
+- Andere 4 demo's van Katacoda kubernetes course
+
+to do:
+
+- Containers docker (course 1 & 2, [containers course](https://www.katacoda.com/courses/kubernetes))
+
 ### Dinsdag 
 
 ### Woensdag 

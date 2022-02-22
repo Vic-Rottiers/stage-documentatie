@@ -8,7 +8,7 @@ Er is dagelijks een Standup met de stagementor en andere stagairs, dus dit verme
 
 ## Week 1
 
-### Maandag 
+### **Maandag**
 
 done:
 
@@ -24,13 +24,26 @@ to do:
 
 - Containers docker (course 1 & 2, [containers course](https://www.katacoda.com/courses/kubernetes))
 
-### Dinsdag 
+### **Dinsdag**
 
-### Woensdag 
+done:
 
-### Donderdag 
+- Theorie kubernetes (basis gelegd, als er nog moeite is met dingen die ik niet snap val ik hierop terug en herneem ik de theorie)
+- containers docker (course 1 & 2)
 
-### Vrijdag 
+doing:
+
+- kubernetes katacoda course (demo 7 & 8 moet nog afgewerkt worden)
+
+to do:
+
+- lokale test/demo omgeving opzetten op mijn laptop
+
+### **Woensdag**
+
+### **Donderdag**
+
+### **Vrijdag** 
 
 ---
 
@@ -42,7 +55,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -56,7 +69,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -70,7 +83,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -84,7 +97,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -98,7 +111,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -112,7 +125,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -126,7 +139,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -140,7 +153,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -154,7 +167,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -168,7 +181,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -182,7 +195,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -196,7 +209,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 
@@ -210,7 +223,7 @@ to do:
 
 ### Woensdag 
 
-### Donderdag 
+### Donderdag
 
 ### Vrijdag 
 

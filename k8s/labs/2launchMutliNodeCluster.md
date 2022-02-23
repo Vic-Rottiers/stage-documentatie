@@ -2,6 +2,12 @@
 
 in single node lab werd minikube gebruikt, dit is een light-weight en portable versie van k8s. hier gebruiken we Kubeadm
 
+In this scenario you'll learn how to bootstrap a Kubernetes cluster using Kubeadm.
+
+Kubeadm solves the problem of handling TLS encryption configuration, deploying the core Kubernetes components and ensuring that additional nodes can easily join the cluster. The resulting cluster is secured out of the box via mechanisms such as RBAC.
+
+More details on Kubeadm can be found at https://github.com/kubernetes/kubeadm
+
 ## 1) initialise master
 
 Das de eerste, zodat alle nodes erop kunnen connecten

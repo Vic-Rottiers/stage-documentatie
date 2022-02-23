@@ -46,15 +46,17 @@ to do:
 
 done:
 
-- .
+- kubernetes katacoda course (demo 7 & 8)
+- lokale testomgeving opzetten
 
 doing:
 
-- .
+- automatiseren lokale testomgeving (ansible -> automatisch k8s cluster opzetten)
+- cheat sheet verder aanvullen
 
 to do:
 
-- .
+- 
 
 ### **Donderdag**
 

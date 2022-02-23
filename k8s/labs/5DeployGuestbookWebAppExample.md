@@ -10,6 +10,19 @@ This tutorial shows you how to build and deploy a simple (not production ready),
 - A single-instance Redis to store guestbook entries
 - Multiple web frontend instances
 
+This scenario explains how to launch a simple, multi-tier web application using Kubernetes and Docker. The Guestbook example application stores notes from guests in Redis via JavaScript API calls. Redis contains a master (for storage), and a replicated set of redis 'slaves'.
+
+Core Concepts
+The following core concepts will be covered during this scenario. These are the foundations of understanding Kubernetes.
+
+Pods
+
+Replication Controllers
+
+Services
+
+NodePorts
+
 ## 1) Start Kubernetes
 
 kubernetes werd opgestart met launch.sh helperscript.

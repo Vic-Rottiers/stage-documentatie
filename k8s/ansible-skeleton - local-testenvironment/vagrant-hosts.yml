@@ -4,8 +4,26 @@
 # possible settings, see the documentation at
 # <https://github.com/bertvv/ansible-skeleton>
 ---
-- name: srv001
+- name: k8sMaster
   ip: 192.168.56.10
+  box: bento/ubuntu-16.04
+  memory: 2048
+  cpus: 2
+  playbook: k8sMaster.yml
+
+- name: k8sNode1
+  ip: 192.168.56.11
+  box: bento/ubuntu-16.04
+  memory: 2048
+  cpus: 2
+  playbook: k8sNode.yml
+
+- name: k8sNode2
+  ip: 192.168.56.12
+  box: bento/ubuntu-16.04
+  memory: 2048
+  cpus: 2
+  playbook: k8sNode.yml
 
 # Example of a more elaborate host definition
 # - name: srv002

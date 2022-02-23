@@ -1,4 +1,6 @@
 # site.yml
 ---
-- hosts: all
-  roles: []
+# - hosts: all
+#   roles: 
+#     - geerlingguy.docker
+#     - geerlingguy.kubernetes

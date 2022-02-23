@@ -9,21 +9,21 @@
   box: bento/ubuntu-16.04
   memory: 2048
   cpus: 2
-  playbook: k8sMaster.yml
+  # playbook: k8sMaster.yml
 
 - name: k8sNode1
   ip: 192.168.56.11
   box: bento/ubuntu-16.04
   memory: 2048
   cpus: 2
-  playbook: k8sNode.yml
+  # playbook: k8sNode.yml
 
 - name: k8sNode2
   ip: 192.168.56.12
   box: bento/ubuntu-16.04
   memory: 2048
   cpus: 2
-  playbook: k8sNode.yml
+  # playbook: k8sNode.yml
 
 # Example of a more elaborate host definition
 # - name: srv002

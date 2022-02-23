@@ -1,5 +1,7 @@
 # Cheat sheet
 
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 Een cheatsheet voor vaakgebruikte Kubernetes commando's.
 
 | Commando                                  | Uitleg                                       |

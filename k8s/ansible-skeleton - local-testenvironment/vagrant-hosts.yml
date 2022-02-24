@@ -9,7 +9,7 @@
   box: bento/ubuntu-16.04
   memory: 2048
   cpus: 2
-  playbook: k8sMaster.yml
+  playbook: k8sMaster2.yml
   
 - name: k8sMaster2
   ip: 192.168.56.11
@@ -18,33 +18,39 @@
   cpus: 2
   playbook: k8sMaster.yml
 
-- name: k8sMaster3
-  ip: 192.168.56.12
-  box: bento/ubuntu-16.04
-  memory: 2048
-  cpus: 2
-  playbook: k8sMaster.yml
+# - name: k8sMaster3
+#   ip: 192.168.56.12
+#   box: bento/ubuntu-16.04
+#   memory: 2048
+#   cpus: 2
+#   playbook: k8sMaster.yml
 
 - name: k8sNode1
   ip: 192.168.56.20
   box: bento/ubuntu-16.04
-  memory: 2048
+  memory: 1024
   cpus: 2
   playbook: k8sNode.yml
 
 - name: k8sNode2
   ip: 192.168.56.21
   box: bento/ubuntu-16.04
-  memory: 2048
+  memory: 1024
   cpus: 2
   playbook: k8sNode.yml
 
 - name: k8sNode3
   ip: 192.168.56.22
   box: bento/ubuntu-16.04
-  memory: 2048
+  memory: 1536
   cpus: 2
   playbook: k8sNode.yml
+
+- name: loadBalancer
+  ip: 192.168.56.100
+  box: bento/ubuntu-16.04
+  memory: 512
+  cpus: 1
 
 # Example of a more elaborate host definition
 # - name: srv002

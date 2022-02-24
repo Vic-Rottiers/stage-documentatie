@@ -1,18 +1,2 @@
 # ik heb eerst geprobeerd deze guide van kubernetes zelf te gebruiken, maar deze lukte niet: https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/
 # https://buildvirtual.net/deploy-a-kubernetes-cluster-using-ansible/
-
-# ---
-# - hosts: masters
-#   become: true
-#   tasks:
-#     - include k8sinstallation.yml
-#     - include k8sMaster.yml
-
-# - hosts: nodes
-#   become: true
-#   tasks:
-#     - name: basisinstallatie k8s
-#       include: k8sinstallation.yml
-#     - name: Specifieke installatie K8s Node
-#       include: k8sNode.yml
-  

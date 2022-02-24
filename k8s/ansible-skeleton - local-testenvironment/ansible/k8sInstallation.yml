@@ -53,7 +53,15 @@
 
     - name: Disable swap
       command: swapoff -a
-      when: ansible_swaptotal_mb > 0
+
+    - name: copy docker.service to machine - switching Docker Cgroup driver to systemd
+      command: cp /vagrant/test/docker.service /etc/systemd/system/multi-user.target.wants/
+
+    - name: Reload daemon
+      command: systemctl daemon-reload
+
+    - name: Restart docker.service
+      command: systemctl restart docker.service
 
     # kubernetes componenten installeren (kubelet, kubeadm, kubectl)
     - name: Add an apt signing key for Kubernetes

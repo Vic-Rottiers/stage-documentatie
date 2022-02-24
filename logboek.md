@@ -60,6 +60,16 @@ to do:
 
 ### **Donderdag**
 
+done:
+
+- lokale testomgeving uitgetest
+
+doing:
+
+- automatiseren van het opzetten van de omgeving
+
+to do:
+
 ### **Vrijdag** 
 
 BP Dag

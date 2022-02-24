@@ -11,3 +11,13 @@
 #
 # Leave the file empty if you do not want to define groups.
 ---
+
+masters:
+  - k8sMaster
+  - k8sMaster2
+  - k8sMaster3
+
+nodes:
+  - k8sNode1
+  - k8sNode2
+  - k8sNode3

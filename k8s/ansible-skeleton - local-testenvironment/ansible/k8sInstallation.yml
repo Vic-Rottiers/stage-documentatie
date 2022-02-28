@@ -1,87 +1,87 @@
 # deze file wordt gereferenced in de site.yml installation, dus is geen volledige playbook
-    - name: Install packages that allow apt to be used over HTTPS
-      apt:
-        name: "{{ packages }}"
-        state: present
-        update_cache: yes
-      vars:
-        packages:
-          - apt-transport-https
-          - ca-certificates
-          - curl
-          - gnupg-agent
-          - software-properties-common
+- name: Install packages that allow apt to be used over HTTPS
+  apt:
+    name: "{{ packages }}"
+    state: present
+    update_cache: yes
+  vars:
+    packages:
+      - apt-transport-https
+      - ca-certificates
+      - curl
+      - gnupg-agent
+      - software-properties-common
 
-    - name: Add an apt signing key for Docker
-      apt_key:
-        url: https://download.docker.com/linux/ubuntu/gpg
-        state: present
-        validate_certs: False
+- name: Add an apt signing key for Docker
+  apt_key:
+    url: https://download.docker.com/linux/ubuntu/gpg
+    state: present
+    validate_certs: False
 
-    - name: Add apt repository for stable version
-      apt_repository:
-        repo: deb [arch=amd64] https://download.docker.com/linux/ubuntu xenial stable
-        state: present
+- name: Add apt repository for stable version
+  apt_repository:
+    repo: deb [arch=amd64] https://download.docker.com/linux/ubuntu xenial stable
+    state: present
 
-    # installeren van docker en alle dependencies
-    - name: Install docker and its dependecies
-      apt:
-        name: "{{ packages }}"
-        state: present
-        update_cache: yes
-      vars:
-        packages:
-          - docker-ce
-          - docker-ce-cli
-          - containerd.io
+# installeren van docker en alle dependencies
+- name: Install docker and its dependecies
+  apt:
+    name: "{{ packages }}"
+    state: present
+    update_cache: yes
+  vars:
+    packages:
+      - docker-ce
+      - docker-ce-cli
+      - containerd.io
 
-    # user vagrant toevoegen aan docker groep
-    - name: Add vagrant user to docker group
-      user:
-        name: vagrant
-        group: docker
+# user vagrant toevoegen aan docker groep
+- name: Add vagrant user to docker group
+  user:
+    name: vagrant
+    group: docker
 
-    # kubelet gaat niet starten als swap enabled is door het systeem, dus we disablen dit.
-    - name: Remove swapfile from /etc/fstab
-      mount:
-        name: "{{ item }}"
-        fstype: swap
-        state: absent
-      with_items:
-        - swap
-        - none
+# kubelet gaat niet starten als swap enabled is door het systeem, dus we disablen dit.
+- name: Remove swapfile from /etc/fstab
+  mount:
+    name: "{{ item }}"
+    fstype: swap
+    state: absent
+  with_items:
+    - swap
+    - none
 
-    - name: Disable swap
-      command: swapoff -a
+- name: Disable swap
+  command: swapoff -a
 
-    - name: copy docker.service to machine - switching Docker Cgroup driver to systemd
-      command: cp /vagrant/test/docker.service /etc/systemd/system/multi-user.target.wants/
+- name: copy docker.service to machine - switching Docker Cgroup driver to systemd
+  command: cp /vagrant/test/docker.service /etc/systemd/system/multi-user.target.wants/
 
-    - name: Reload daemon
-      command: systemctl daemon-reload
+- name: Reload daemon
+  command: systemctl daemon-reload
 
-    - name: Restart docker.service
-      command: systemctl restart docker.service
+- name: Restart docker.service
+  command: systemctl restart docker.service
 
-    # kubernetes componenten installeren (kubelet, kubeadm, kubectl)
-    - name: Add an apt signing key for Kubernetes
-      apt_key:
-        url: https://packages.cloud.google.com/apt/doc/apt-key.gpg
-        state: present
+# kubernetes componenten installeren (kubelet, kubeadm, kubectl)
+- name: Add an apt signing key for Kubernetes
+  apt_key:
+    url: https://packages.cloud.google.com/apt/doc/apt-key.gpg
+    state: present
 
-    - name: Adding apt repository for Kubernetes
-      apt_repository:
-        repo: deb https://apt.kubernetes.io/ kubernetes-xenial main
-        state: present
-        filename: kubernetes.list
+- name: Adding apt repository for Kubernetes
+  apt_repository:
+    repo: deb https://apt.kubernetes.io/ kubernetes-xenial main
+    state: present
+    filename: kubernetes.list
 
-    - name: Install Kubernetes binaries
-      apt:
-        name: "{{ packages }}"
-        state: present
-        update_cache: yes
-      vars:
-        packages:
-          - kubelet
-          - kubeadm
-          - kubectl
+- name: Install Kubernetes binaries
+  apt:
+    name: "{{ packages }}"
+    state: present
+    update_cache: yes
+  vars:
+    packages:
+      - kubelet
+      - kubeadm
+      - kubectl

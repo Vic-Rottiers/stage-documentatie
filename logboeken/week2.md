@@ -10,17 +10,18 @@ Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder we
 
 ### **Maandag**
 
+Ik heb vandaag mijn stageopdracht gebriefd gekregen. Ik maak in de loop van de week een document op in deze repo met extra uitleg. De opdracht draait zich rond Anthos.
+
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Stageopdracht uitgelegd, meeting gehad om dit te bespreken
+- [x] Overview/wat is Anthos samengevat.
+- [ ] Verdere samenvatting rond Anthos afwerken.
 
 to do:
 
-- ..
-- ..
+- verdere uitwerking van mijn stageopdracht
+- de stageopdracht indelen, in het Jira bord steken (we hebben hier nog geen toegang voor)
 
 ---
 

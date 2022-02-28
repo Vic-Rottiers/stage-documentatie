@@ -23,6 +23,10 @@
     repo: deb [arch=amd64] https://download.docker.com/linux/ubuntu xenial stable
     state: present
 
+- name: docker solution
+  command: echo all >> /etc/gcrypt/hwf.deny
+- name: docker solution
+  command: apt-get update
 # installeren van docker en alle dependencies
 - name: Install docker and its dependecies
   apt:

@@ -12,6 +12,8 @@ Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder we
 
 Ik heb vandaag mijn stageopdracht gebriefd gekregen. Ik maak in de loop van de week een document op in deze repo met extra uitleg. De opdracht draait zich rond Anthos.
 
+Omdat mijn stageopdracht voor Flowfactor is en niet publiek mag beschikbaar zijn, heb ik deze op een aparte github repository geplaatst.
+
 done - doing:
 
 - [x] Stageopdracht uitgelegd, meeting gehad om dit te bespreken
@@ -29,15 +31,15 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Setup Anthos docs afgewerkt
+- [x] k8s cluster automation afgewerkt
+- [x] Issue met k8s cluster automatisatie die niet werkte op laptop opgelost
+- [ ] Manage Anthos bekijken
 
 to do:
 
-- ..
-- ..
+- Test environment in AWS + Anthos maken
+- Test environment in Google Cloud + Anthos maken (niet 100% zeker)
 
 ---
 

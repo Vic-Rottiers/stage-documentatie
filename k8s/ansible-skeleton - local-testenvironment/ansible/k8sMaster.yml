@@ -33,6 +33,25 @@
     - name: basisinstallatie k8s
       include: k8sinstallation.yml
 
+    - name: Install haproxy & keepalived
+      apt:
+        name: "{{ packages }}"
+        state: present
+        update_cache: yes
+      vars:
+        packages:
+          - keepalived
+          - haproxy
+
+    - name: copy load balancer files to master
+      copy: src={{ item.src }} dest={{ item.dest }}
+      with_items:
+        - { src: 'loadbalancer/check-apiserver.sh', dest: '/etc/keepalived/check-apiserver.sh' }
+        - { src: 'loadbalancer/keepalivedMaster.conf', dest: '/etc/keepalived/keepalived.conf' }
+        - { src: 'loadbalancer/haproxy.cfg', dest: '/etc/haproxy/haproxy.cfg' }
+        - { src: 'loadbalancer/haproxy.yaml', dest: '/etc/kubernetes/manifests/haproxy.yaml' }
+        - { src: 'loadbalancer/keepalived.yaml', dest: '/etc/kubernetes/manifests/keepalived.yaml' }
+
     # k8s cluster initialiseren en opstarten
     - name: Initialize the Kubernetes cluster using kubeadm
       command: kubeadm init --apiserver-advertise-address="192.168.56.10" --apiserver-cert-extra-sans="192.168.56.10"
@@ -44,6 +63,7 @@
 
     - name: Copy join command to local file
       local_action: copy content="{{ join_command.stdout_lines[0] }}" dest="./join-command"
+
 # # checken of docker runned
 #       # handlers:
 #       #   - name: docker status

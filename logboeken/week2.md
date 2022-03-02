@@ -47,14 +47,14 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Demo getoond van automatisatieproject. 
+- [x] Documentatie Anthos afgewerkt (De basis)
+- [ ] AWS PVC opzetten, dit in samenwerking met Anthos Google Cloud
 
 to do:
 
-- ..
+- Documentatie verder verwerken
+- Uitwerken van opdrachtenbestand, waarin extra info rond de stageopdracht wordt vermeld.
 - ..
 
 ---

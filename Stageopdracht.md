@@ -6,6 +6,10 @@ De stageopdracht gaat over volgende onderdelen:
 
 ## Google Anthos
 
+![anthos](k8s/img/anthos.png)
+
+<https://cloud.google.com/anthos>
+
 Anthos is een onderdeel van de Google Cloud suite, die zorgt voor Cluster management doormiddel van de GKE (Google Kubernetes Engine). Anthos is een platform met veel mogelijkheden, ik ga onder andere volgende zaken onderzoeken en uitproberen:
 
 - het managen van een AWS cluster in Anthos

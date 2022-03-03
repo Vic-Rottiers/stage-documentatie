@@ -70,6 +70,7 @@ done - doing:
 
 - [x] Stageopdracht indelen in ticketten, dit op het kanbanbord plaatsen
 - [x] Uitwerken van opdrachtenbestand, waarin extra info rond de stageopdracht wordt vermeld.
+- [x] Documentatie rond het opzetten van AWS PVC en andere componenten
 - [ ] AWS PVC opzetten, in samenwerking met Anthos Google Cloud
 
 to do:

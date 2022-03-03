@@ -1,3 +1,16 @@
+# Ansible & Vagrant opdracht: de opzet van een kubernetes cluster
+
+Ik gebruik dit skeleton framework (gemaakt door lector [Bert Van Vreckem](https://github.com/bertvv/)) voor de opstart en configuratie van een kubernetes cluster. In de vagrant-hosts file is te zien welke machines er allemaal kunnen opgezet worden. 
+
+De setup waartoe ik het werkende heb gekregen is als volgt:
+
+- 1 master node
+- 1 - 3 worker nodes
+
+De ansible setup zorgt ervoor dat de master nodes zichzelf initialiseren, en de worker nodes de cluster joinen.
+
+Hieronder de verdere uitleg van het Ansible Skeleton, geschreven door meneer Van Vreckem.
+
 # Ansible Skeleton
 
 An opinionated skeleton that considerably simplifies setting up an Ansible project with a development environment powered by Vagrant.

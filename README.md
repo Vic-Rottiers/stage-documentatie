@@ -4,9 +4,10 @@ Dit is de github-repo waarin alle documentatie te vinden is over courses die ik 
 
 Ook bestaat deze repo uit een logboek gedeelte waarin ik bijhou wat ik wekelijks realiseer.
 
-### Projects: Work In Progress
+### Projecten:
 
-- Ansible - Vagrant automatisation. Het installeren en initialiseren van een Kubernetes cluster.
+- Done: [Ansible - Vagrant automatisation. Het installeren en initialiseren van een Kubernetes cluster.](https://github.com/Vic-Rottiers/stage-documentatie/tree/main/k8s/ansible-skeleton%20-%20local-testenvironment)
+- Doing: Stageopdracht, het leren werken met Google Anthos & andere cloud omgevingen bij het opzetten van kubernetes clusters.
 
 ## Logboek
 

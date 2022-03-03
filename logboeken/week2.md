@@ -64,16 +64,17 @@ to do:
 
 ### **Donderdag**
 
+Het kanbanbord is 80% klaar. De meeste tickets die ik erop heb geplaatst zijn uitgewerkt.
+
 done - doing:
 
-- [x] 
+- [x] Stageopdracht indelen in ticketten, dit op het kanbanbord plaatsen
 - [x] Uitwerken van opdrachtenbestand, waarin extra info rond de stageopdracht wordt vermeld.
-- [ ] Stageopdracht indelen in ticketten, dit op het kanbanbord plaatsen
 - [ ] AWS PVC opzetten, in samenwerking met Anthos Google Cloud
 
 to do:
 
-- ..
+- Glenn vragen om credentials voor Google Cloud
 - ..
 
 ---

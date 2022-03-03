@@ -6,6 +6,8 @@ Er is dagelijks een Standup met de stagementor en andere stagaires, dus dit verm
 
 Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder werken aan de opdrachten. Ik zal dan wekelijks dit bord delen en hier in dit logboek zetten. Als ik ondervind dat dit te onduidelijk is vul ik dit nog aan.
 
+**TODO:** screenshot van het kanbanbord plaatsen.
+
 ---
 
 ### **Maandag**
@@ -40,6 +42,7 @@ to do:
 
 - Test environment in AWS + Anthos maken
 - Test environment in Google Cloud + Anthos maken (niet 100% zeker)
+- de stageopdracht indelen, in het Jira bord steken (we hebben hier nog geen toegang voor)
 
 ---
 
@@ -47,7 +50,7 @@ to do:
 
 done - doing:
 
-- [x] Demo getoond van automatisatieproject. 
+- [x] Demo getoond van automatisatieproject.
 - [x] Documentatie Anthos afgewerkt (De basis)
 - [ ] AWS PVC opzetten, dit in samenwerking met Anthos Google Cloud
 
@@ -55,7 +58,7 @@ to do:
 
 - Documentatie verder verwerken
 - Uitwerken van opdrachtenbestand, waarin extra info rond de stageopdracht wordt vermeld.
-- ..
+- de stageopdracht indelen, in het Jira bord steken (toegang tot het kanbanbord is in orde)
 
 ---
 
@@ -64,9 +67,9 @@ to do:
 done - doing:
 
 - [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Uitwerken van opdrachtenbestand, waarin extra info rond de stageopdracht wordt vermeld.
+- [ ] Stageopdracht indelen in ticketten, dit op het kanbanbord plaatsen
+- [ ] AWS PVC opzetten, in samenwerking met Anthos Google Cloud
 
 to do:
 

@@ -12,15 +12,14 @@ Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder we
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Google Credentials verkregen, Google Cloud Project is aangemaakt
+- [x] K8s cluster aangemaakt in Gcloud
+- [x] Testdeployment (kleine hello-world app) in cluster gedeployed.
+- [ ] Troubleshooting over aws cluster deployment met Anthos (cluster wordt deployed maar is niet zichtbaar in Anthos/Gcloud)
 
 to do:
 
-- ..
-- ..
+- Testdeployment op AWS cluster deployen.
 
 ---
 

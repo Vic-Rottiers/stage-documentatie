@@ -41,14 +41,12 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Grotere Testdeployment GKE Cluster in Anthos
+- [ ] Start documentatie en opzoekwerk App Modernization
 
 to do:
 
-- ..
+- Troubleshooting voortzetten, wachten op hulp van stagementor.
 - ..
 
 ---

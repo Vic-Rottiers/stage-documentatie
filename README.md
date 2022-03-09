@@ -14,7 +14,7 @@ Ook bestaat deze repo uit een logboek gedeelte waarin ik bijhou wat ik wekelijks
 De verschillende logboeken vind u in de folder [`logboeken`](https://github.com/Vic-Rottiers/stage-documentatie/tree/main/logboeken) in deze repo. Ik maak wekelijks een logboek op die elke dag van die week overloopt. Hieronder vind u ook per week telkens een link naar dit logboek.
 
 - [x] [week 1](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week1.md)
-- [ ] [week 2](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week2.md)
+- [x] [week 2](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week2.md)
 - [ ] [week 3](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week3.md)
 - [ ] [week 4](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week4.md)
 - [ ] [week 5](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week5.md)

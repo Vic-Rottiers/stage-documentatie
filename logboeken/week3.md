@@ -55,14 +55,13 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Troubleshooting Anthos AWS Cluster
+- [x] Issue opgesteld en aangemaakt voor Google Cloud support
+- [ ] App modernization: eerste testen gedaan
 
 to do:
 
-- ..
+- Demo klaarmaken voor woensdag
 - ..
 
 ---

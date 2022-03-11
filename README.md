@@ -15,7 +15,7 @@ De verschillende logboeken vind u in de folder [`logboeken`](https://github.com/
 
 - [x] [week 1](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week1.md)
 - [x] [week 2](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week2.md)
-- [ ] [week 3](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week3.md)
+- [x] [week 3](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week3.md)
 - [ ] [week 4](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week4.md)
 - [ ] [week 5](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week5.md)
 - [ ] [week 6](https://github.com/Vic-Rottiers/stage-documentatie/blob/main/logboeken/week6.md)

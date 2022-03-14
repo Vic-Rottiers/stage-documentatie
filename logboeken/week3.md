@@ -21,7 +21,7 @@ done - doing:
 
 to do:
 
-- Testdeployment op AWS cluster deployen.+
+- Testdeployment op AWS cluster deployen.
 
 ---
 
@@ -30,11 +30,11 @@ to do:
 done - doing:
 
 - [ ] troubleshooting over aws cluster deployment met anthos (nog steeds fouten bij creatie cluster)
-- [ ] Installatie AWS Pvc en dergelijke automatiseren met powershell
+- [ ] Installatie AWS VPC en dergelijke automatiseren met powershell
 
 to do:
 
-- Testdeployment op AWS cluster deployen.+
+- Testdeployment op AWS cluster deployen.
 - ..
 
 ---

@@ -30,10 +30,11 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] Wout helpen troubleshooten met lokale testomgeving
+- [x] Voorbereiding voor demo van morgen
+- [ ] Troubleshooting ticket met Google Support oplossen
+- [ ] Wout helpen met troubleshooten van de lokale testomgeving
+- [ ] Verdere automatisatie VPC opstelling in Powershell
+- [ ] Config management demo (helemaal in command line) 90% finished. Er is nog een probleem met permissies
 
 to do:
 

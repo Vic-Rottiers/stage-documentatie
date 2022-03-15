@@ -17,6 +17,7 @@ done - doing:
 - [x] Documentatie Anthos Config Management doorgenomen
 - [x] GUI Test gedaan voor Config Management
 - [ ] Troubleshooting ticket met Google Support oplossen
+- [ ] Wout helpen met lokale testomgeving
 
 to do:
 
@@ -32,7 +33,7 @@ done - doing:
 - [x] 
 - [x] 
 - [ ] 
-- [ ] 
+- [ ] Wout helpen troubleshooten met lokale testomgeving
 
 to do:
 

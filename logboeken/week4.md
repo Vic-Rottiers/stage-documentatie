@@ -47,14 +47,14 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Demo gegeven
+- [x] AWS - Anthos troubleshooting afgerond. Het probleem is niet opgelost, maar ik verspeel teveel tijd als ik niet met een alternatief voortga. Ik ga nu op Azure (in plaats van AWS) dezelfde setup proberen nabootsen
+- [ ] Azure VNet opzetten
+- [ ] Config Management: configuratie repo verder uitwerken
 
 to do:
 
-- ..
+- Migration to Anthos: starten
 - ..
 
 ---

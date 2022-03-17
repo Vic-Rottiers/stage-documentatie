@@ -63,14 +63,14 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Jobevent dinsdag 22/3: account in orde brengen + reservaties vastleggen (ik had dit al eerder gedaan, maar door een fout in het systeem was dit niet correct.)
+- [x] Azure VNet opgezet
+- [ ] Config Management: repo verder opzetten
+- [ ] Azure cluster opzetten: bijna gelukt, het registreert nog niet 100% op Anthos
 
 to do:
 
-- ..
+- Migration to Anthos: starten
 - ..
 
 ---

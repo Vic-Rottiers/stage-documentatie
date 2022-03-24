@@ -28,17 +28,7 @@ to do:
 
 ### **Dinsdag**
 
-done - doing:
-
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
-
-to do:
-
-- ..
-- ..
+Hogent Job Event
 
 ---
 
@@ -46,10 +36,9 @@ to do:
 
 done - doing:
 
+- [ ] Troubleshooting op de Anthos Azure cluster
 - [x] 
-- [x] 
-- [ ] 
-- [ ] 
+
 
 to do:
 
@@ -62,10 +51,8 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [ ] Troubleshooting op de Anthos Azure Cluster
+- [x] Verdere uitwerking Policies & constraints voor de Anthos Config Management
 
 to do:
 

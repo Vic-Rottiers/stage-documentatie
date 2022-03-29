@@ -28,16 +28,17 @@ to do:
 
 ### **Dinsdag**
 
+Door de vaststelling dat er teveel issues boven water komen bij het initialiseren van een Anthos Cluster op een ander cloud platform (AWS en Azure), zijn we geneigd om de opdracht te hervormen naar enkel Google Cloud Clusters. Zo kan ik toch de volledige opdracht uitwerken zonder al het extra troubleshooting & fixes die nodig zijn. Er is een support ticket aangemaakt die Glenn zal opvolgen.
+
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Troubleshooting klaar. Clustercreation is een stukje gelukt, maar er komen teveel issues boven. We switchen naar GKE clusters om de opdracht verder te kunnen zetten.
+- [ ] Stageverslag aangemaakt. Ik heb hier al een eerste stuk tekst in geschreven, over het bedrijf.
+- [ ] Config management voortzetten, verschillende policies & constraints aanmaken en uitdiepen.
 
 to do:
 
-- ..
+- Overzichtje voor Demo maken.
 - ..
 
 ---

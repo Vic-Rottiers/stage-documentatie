@@ -1,4 +1,4 @@
-# Logboek: Week x
+# Logboek: Week 6
 
 Hierin vermeld ik dagelijks wat ik heb gedaan, waaraan ik heb gewerkt, welke zaken er afgewerkt zijn of niet.
 
@@ -16,8 +16,6 @@ done - doing:
 
 - [x] troubleshooting
 - [x] Meeting met Glenn, beslissen hoe de stageopdracht verder wordt afgewerkt. Morgen valt hier een definitieve beslissing over.
-- [ ] 
-- [ ] 
 
 to do:
 

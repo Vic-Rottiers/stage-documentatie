@@ -45,15 +45,13 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Demo gepresenteerd
+- [x] Overzicht voor demo gemaakt
+- [ ] Config management voortzetten, het proberen integreren van zelfgeschreven policies & constraints
 
 to do:
 
-- ..
-- ..
+- Starten aan app. modernization
 
 ---
 

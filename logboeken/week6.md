@@ -6,7 +6,7 @@ Er is dagelijks een Standup met de stagementor en andere stagaires, dus dit verm
 
 Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder werken aan de opdrachten. Ik zal dan wekelijks dit bord delen en hier in dit logboek zetten. Als ik ondervind dat dit te onduidelijk is vul ik dit nog aan.
 
-![kanban](img/kanban-wx.jpg)
+![kanban](img/kanban-w6.jpg)
 
 ---
 
@@ -59,15 +59,13 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Config management afgewerkt
+- [ ] Opzoekwerk Migration For Anthos
 
 to do:
 
-- ..
-- ..
+- Testscenario voor migration uitwerken
+- Stageverslag verder schrijven
 
 ---
 

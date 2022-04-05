@@ -30,14 +30,12 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Klein testscenario opgezet, ik stootte op wat problemen en ben deze nu aan het troubleshooten. 95% door het testscenario kunnen gaan voor ik op fouten stoot.
+- [ ] Stageverslag verder aanvullen
 
 to do:
 
-- ..
+- Groter testscenario schrijven
 - ..
 
 ---

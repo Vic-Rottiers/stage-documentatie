@@ -42,8 +42,8 @@ to do:
 done - doing:
 
 - [x] Planning / Milestones besproken met Brent & Nikolaas
-- [x] 
-- [ ] 
+- [ ] Verdere troubleshooting Migration for Anthos
+- [x] Nagedacht over groter testscenario
 
 to do:
 

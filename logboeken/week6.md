@@ -20,7 +20,6 @@ done - doing:
 to do:
 
 - ..
-- ..
 
 ---
 

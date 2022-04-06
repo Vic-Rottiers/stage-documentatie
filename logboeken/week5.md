@@ -15,13 +15,9 @@ Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder we
 done - doing:
 
 - [x] Troubleshooting
-- [x] 
-- [ ] 
-- [ ] 
 
 to do:
 
-- ..
 - ..
 
 ---
@@ -37,12 +33,9 @@ Hogent Job Event
 done - doing:
 
 - [ ] Troubleshooting op de Anthos Azure cluster
-- [x] 
-
 
 to do:
 
-- ..
 - ..
 
 ---
@@ -56,7 +49,6 @@ done - doing:
 
 to do:
 
-- ..
 - ..
 
 ---

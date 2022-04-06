@@ -17,11 +17,9 @@ done - doing:
 - [x] Opzoekwerk naar Migrate to Anthos
 - [x] Documentatie aanvullen over Migrate to Anthos
 - [ ] Klein testscenario opzetten en uitvoeren 
-- [ ] 
 
 to do:
 
-- ..
 - ..
 
 ---
@@ -36,7 +34,6 @@ done - doing:
 to do:
 
 - Groter testscenario schrijven
-- ..
 
 ---
 
@@ -44,14 +41,12 @@ to do:
 
 done - doing:
 
+- [x] Planning / Milestones besproken met Brent & Nikolaas
 - [x] 
-- [x] 
-- [ ] 
 - [ ] 
 
 to do:
 
-- ..
 - ..
 
 ---

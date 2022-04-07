@@ -6,7 +6,7 @@ Er is dagelijks een Standup met de stagementor en andere stagaires, dus dit verm
 
 Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder werken aan de opdrachten. Ik zal dan wekelijks dit bord delen en hier in dit logboek zetten. Als ik ondervind dat dit te onduidelijk is vul ik dit nog aan.
 
-![kanban](img/kanban-wx.jpg)
+![kanban](img/kanban-w7.jpg)
 
 ---
 
@@ -55,14 +55,13 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Gesprek met Axxes, een bedrijf dat contact opnam met mij na de jobbeurs
+- [x] Troubleshooting verder vastgelegd, nog steed niet opgelost.
+- [ ] Stageverslag verder afwerken, zodat ik een eerste draft kan doorsturen
 
 to do:
 
-- ..
+- De gekregen powerpoint template verwerken en een demopresentatie maken.
 - ..
 
 ---

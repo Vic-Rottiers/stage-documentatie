@@ -30,7 +30,6 @@ done - doing:
 - [x] Troubleshooting migration done, de fout is gevonden.
 - [ ] Stageverslag afmaken
 - [ ] Demopresentatie maken
-- [ ] 
 
 to do:
 
@@ -43,10 +42,9 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Demo gegeven
+- [x] Stageverslag draft klaar
+- [ ] migration automatisatie fout oplossen
 
 to do:
 

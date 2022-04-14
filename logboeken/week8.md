@@ -57,10 +57,8 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Stageverslag nagekeken en doorgestuurd
+- [ ] migration automatisatie fout oplossen
 
 to do:
 

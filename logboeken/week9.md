@@ -14,6 +14,14 @@ Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder we
 
 done - doing:
 
+to do:
+
+---
+
+### **Dinsdag**
+
+done - doing:
+
 - [x] Migration: deployment succesvol op cluster + extern bereikbaar met IP
 
 to do:
@@ -22,30 +30,12 @@ to do:
 
 ---
 
-### **Dinsdag**
-
-done - doing:
-
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
-
-to do:
-
-- ..
-- ..
-
----
-
 ### **Woensdag**
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] stageoverzicht ppt voor demo gemaakt
+- [x] VM's aangemaakt voor groter testmigratie
 
 to do:
 

@@ -14,14 +14,12 @@ Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder we
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Service mesh: opzoekwerk
+- [x] Service mesh: documentatie aanvullen
 
 to do:
 
-- ..
+- presentatie training day
 - ..
 
 ---
@@ -30,15 +28,9 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Presentatie training day afgewerkt
 
 to do:
-
-- ..
-- ..
 
 ---
 

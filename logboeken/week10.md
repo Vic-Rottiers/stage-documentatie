@@ -38,15 +38,7 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
-
-to do:
-
-- ..
-- ..
+- [x] Training day
 
 ---
 
@@ -54,14 +46,11 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Service mesh: testscenario / quickstart opgezet
+- [x] Documentatie installatie service mesh gemaakt
 
 to do:
 
-- ..
 - ..
 
 ---

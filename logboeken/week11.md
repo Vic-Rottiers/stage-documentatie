@@ -15,14 +15,8 @@ Vanaf week 2 word ik op een Jira bord geplaatst waar we in kanban vorm verder we
 done - doing:
 
 - [x] Anthos Service mesh: onderzoek
-- [x] 
-- [ ] 
-- [ ] 
 
 to do:
-
-- ..
-- ..
 
 ---
 
@@ -32,13 +26,6 @@ done - doing:
 
 - [x] Anthos Service mesh: onderzoek
 - [x] Anthos Service mesh: troubleshooting
-- [ ] 
-- [ ] 
-
-to do:
-
-- ..
-- ..
 
 ---
 
@@ -46,15 +33,8 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
-
-to do:
-
-- ..
-- ..
+- [x] Troubleshooting opgelost
+- [x] Documentatie aangevuld
 
 ---
 

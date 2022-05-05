@@ -42,14 +42,11 @@ done - doing:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Aanvulling documentatie
 
 to do:
 
-- ..
+- Managed Service mesh (door GCP) uitwerken in test (<https://cloud.google.com/service-mesh/docs/managed/configure-managed-anthos-service-mesh>)
 - ..
 
 ---

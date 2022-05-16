@@ -25,9 +25,7 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
+- [ ] Service mesh: enkele zaken nog uitproberen, het deployen van meerdere applicaties op de service mesh
 - [ ] 
 
 to do:
@@ -41,11 +39,8 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
-
+- [ ] CI/CD Tools: Cloud Run documentatie bekijken
+- [ ] Bachelorproef
 to do:
 
 - ..
@@ -57,10 +52,8 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [ ] CI/CD Tools: Cloud Run documentatie bekijken
+- [ ] Bachelorproef
 
 to do:
 

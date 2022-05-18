@@ -29,15 +29,8 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
-
-to do:
-
-- ..
-- ..
+- [ ] Stageverslag verwerken 
+- [ ] Cloud Run extra functionaliteit 
 
 ---
 
@@ -45,15 +38,9 @@ to do:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
-
-to do:
-
-- ..
-- ..
+- [x] Cloud Run: Extra functionaliteit, CI/CD systeem adhv Github Action en Cloud Run opgezet.
+- [x] Demo gegeven
+- [x] Presentatie bijgewerkt
 
 ---
 

@@ -1,4 +1,4 @@
-# Logboek: Week x
+# Logboek: Week 13
 
 Hierin vermeld ik dagelijks wat ik heb gedaan, waaraan ik heb gewerkt, welke zaken er afgewerkt zijn of niet.
 

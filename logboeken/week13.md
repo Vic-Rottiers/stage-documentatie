@@ -17,12 +17,6 @@ done - doing:
 - [x] CI/CD Tools: Cloud Run documentatie bekijken
 - [ ] Bachelorproef
 
-
-to do:
-
-- ..
-- ..
-
 ---
 
 ### **Dinsdag**
@@ -48,15 +42,10 @@ done - doing:
 
 done - doing:
 
-- [x] 
-- [x] 
-- [ ] 
-- [ ] 
+- [x] Binary Authorization afgewerkt
+- [x] Stageopdracht volledig afgewerkt
 
-to do:
-
-- ..
-- ..
+Er is afgesproken met stagebegeleider en project manager dat ik me volgende week volledig focus op mijn bachelorproef.
 
 ---
 

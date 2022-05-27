@@ -38,7 +38,7 @@ done - doing:
 
 done - doing:
 
-- [ ] Bachelorproef
+- [x] Bachelorproef
 
 ---
 
